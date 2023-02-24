@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace ProjectName.Models
+namespace Bakery.Models
 {
   public class ClassName
   {
