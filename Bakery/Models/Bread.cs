@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace Bakery.Models
 {
-  public class Bread
+  public class BreadOrder
   {
-    // properties, constructors, methods, etc. go here
+    public BreadOrder()
   }
 }
 
